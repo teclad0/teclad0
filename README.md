@@ -1,5 +1,5 @@
 <h1 align="center">Hemilyn Stephanye</h1>
-<p align="center"><em>MSc Researcher in Computer Science — Federal University of São Carlos (UFSCar)</em></p>
+<p align="center"><em>MSc Researcher in Computer Science (UFSCar) · Graph-based Machine Learning · Data Science</em></p>
 <p align="center">
 <a href="http://lattes.cnpq.br/4052309075090666">Lattes CV</a> ·
 São Carlos, São Paulo, Brazil
@@ -7,10 +7,14 @@ São Carlos, São Paulo, Brazil
 
 ## About
 
+I'm a passionate student of graphs, fascinated by how much they surface in data that isolated points alone would keep hidden. That's what pulled me into this field, and it still drives what I do.
+
 I'm a Master's researcher in Computer Science at UFSCar, working with the PANDA-UFSCar research group. My work focuses on **graph-based machine learning for Positive and Unlabeled Learning (PUL)** — designing methods that exploit data topology to identify reliable negative examples when only positive and unlabeled data are available.
 
 * 🔬 Current research: adapting **Particle Competition** (originally a complex-network community-detection model) to select **reliable negatives** in PUL, by clustering the data graph into "territories" and picking negative-territory nodes that are topologically most distant from positive ones
 * 🎓 MSc in Computer Science, UFSCar (in progress)
+* 💼 Beyond research, I enjoy translating this into practice — building and evaluating ML pipelines, working with real (often messy, weakly-labeled) data, and communicating results clearly to both technical and non-technical audiences
+* 🤝 Open to research collaborations and industry opportunities in ML / data science / graph analytics — feel free to reach out!
 
 ## Research Interests
 
@@ -20,6 +24,13 @@ I'm a Master's researcher in Computer Science at UFSCar, working with the PANDA-
 * Community Detection in Complex Networks
 * Pseudo-labeling strategies for weakly-labeled data
 
+## Skills
+
+* **ML / Data Science:** classification, clustering, model evaluation, weakly-supervised & semi-supervised learning
+* **Graph Analytics:** network modeling, community detection, graph-based feature engineering
+* **Engineering:** Python (NumPy, pandas, scikit-learn, NetworkX), experiment design & reproducibility, data pipelines
+* **Other:** communication, scientific writing, technical presentations
+
 ## Tech Stack
 
 <p>
@@ -28,11 +39,13 @@ I'm a Master's researcher in Computer Science at UFSCar, working with the PANDA-
 <img src="https://img.shields.io/badge/NetworkX-013243?style=flat&logo=python&logoColor=white" alt="NetworkX"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
 <!-- Add/remove badges for the languages and tools you actually use -->
 </p>
 
 ## Contact
 
 * ✉️ Email: hemilyn@estudante.ufscar.br
-* 🔗 LinkedIn: https://www.linkedin.com/in/hemilyn/
+* 🔗 LinkedIn: [linkedin.com/in/hemilyn](https://www.linkedin.com/in/hemilyn/)
 * 🌐 Lattes: [lattes.cnpq.br/4052309075090666](http://lattes.cnpq.br/4052309075090666)
