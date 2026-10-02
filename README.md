@@ -7,7 +7,7 @@ São Carlos, São Paulo, Brazil
 
 ## About
 
-I'm a passionate student of graphs — what draws me in is how much more comes to light once data is organized around relationships instead of treated point by point. That's what pulled me into this field, and it still drives what I do.
+I'm a passionate student of graphs because of how much more comes to light when data is organized around relationships rather than treated point by point. That's what pulled me into this field, and it still drives what I do.
 
 I'm a Master's student in Computer Science at UFSCar. My work focuses on **graph-based machine learning for Positive and Unlabeled Learning (PUL)** — designing methods that exploit data topology to identify reliable negative examples when only positive and unlabeled data are available.
 
