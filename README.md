@@ -7,7 +7,7 @@ São Carlos, São Paulo, Brazil
 
 ## About
 
-I'm a Master's student in Computer Science at UFSCar. My work focuses on **graph-based machine learning for Positive and Unlabeled Learning (PUL)** — designing methods that exploit data topology to identify reliable negative examples when only positive and unlabeled data are available.
+I'm a **Data Scientist** with 4+ years of experience building ML solutions for real business problems, and a Master's student in Computer Science at UFSCar. My research focuses on **graph-based machine learning for Positive and Unlabeled Learning (PUL)**.
 
 * 🔬 Current research: adapting **Particle Competition** (originally a complex-network community-detection model) to select **reliable negatives** in PUL, by clustering the data graph into "territories" and picking negative-territory nodes that are topologically most distant from positive ones
 * 🎓 MSc in Computer Science, UFSCar (in progress)
