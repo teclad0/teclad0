@@ -14,6 +14,16 @@ I'm a Master's student in Computer Science at UFSCar. My work focuses on **graph
 * 💼 Beyond research, I enjoy translating this into practice — building and evaluating ML pipelines, working with real (often messy, weakly-labeled) data, and communicating results clearly to both technical and non-technical audiences
 * 🤝 Open to research collaborations and industry opportunities in ML / data science / graph analytics — feel free to reach out!
 
+## ⭐ Featured Publication
+
+> ### 📄 [Particle Competition for Pseudo-Labeling in Positive and Unlabeled Learning](https://sol.sbc.org.br/index.php/eniac/article/view/46963/46720)
+> **Hemilyn S. A. Porfirio**, Guilherme Henrique Messias, Alan Demétrius Baria Valejo  
+> *XXIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2026), Cuiabá/MT · SBC OpenLib · Universidade Federal de São Carlos (UFSCar)*
+>
+> We introduce **PC-PUL**, a method that adapts **Particle Competition** to select reliable negatives in Positive and Unlabeled Learning. Autonomous particles compete for graph nodes and form territories; nodes in negative territories that are topologically distant from the positives are selected as reliable negatives. Experiments on five datasets show **superior results on CiteSeer** and **competitive performance on PubMed and MNIST**.
+>
+> [**Read the paper →**](https://sol.sbc.org.br/index.php/eniac/article/view/46963/46720)
+
 ## Research Interests
 
 * Positive and Unlabeled Learning (PUL)
