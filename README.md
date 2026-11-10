@@ -55,5 +55,6 @@ I'm a **Data Scientist** with 4+ years of experience building ML solutions for r
 ## Contact
 
 * ✉️ Email: hemilyn@estudante.ufscar.br
+* ✉️ Institutional Email: hemilyn@estudante.ufscar.br 
 * 🔗 LinkedIn: [linkedin.com/in/hemilyn](https://www.linkedin.com/in/hemilyn/)
 * 🌐 Lattes: [lattes.cnpq.br/4052309075090666](http://lattes.cnpq.br/4052309075090666)
